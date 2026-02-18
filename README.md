@@ -1,2 +1,3 @@
-"# My First Repository" 
-"This is apractice project for learning Git and GitHub." 
+# My First Repository 
+# This is apractice project for learning Git and GitHub
+# “Edited on GitHub!”
